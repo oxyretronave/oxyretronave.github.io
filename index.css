@@ -24,6 +24,7 @@ a {
 
 .reach-me {
     text-align: right;
+    margin: 3%;
     color: whitesmoke;
 }
 
@@ -43,6 +44,9 @@ h2 {
     margin-right: 20vw;
 }
 
+img {
+    margin: 2%;
+}
 
 
 .reach-me img {
