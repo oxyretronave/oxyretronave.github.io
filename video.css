@@ -32,3 +32,7 @@ a {
     margin-top:8vw;    
     margin-bottom: 2vw;
 }
+
+#no {
+    text-decoration: none;    
+}
