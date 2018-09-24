@@ -30,6 +30,7 @@ a {
 h2 {
     margin: 0px;
     color: whitesmoke;
+    margin-bottom: -2px;
 }
 
 * {box-sizing:border-box}
@@ -42,10 +43,6 @@ h2 {
     margin-right: 20vw;
 }
 
-/* Hide the images by default */
-.mySlides {
-    display: block;
-}
 
 
 .reach-me img {
